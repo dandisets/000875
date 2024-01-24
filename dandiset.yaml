@@ -7,9 +7,21 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 2394148635
+  numberOfFiles: 6
+  numberOfSubjects: 12
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
+    name: Bos taurus - Cattle
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: Silkuniene, Giedre; Pakhomov, Andrei; Gudvangen, Emily; Mangalanathan, Uma;
   Semenov, Iurii (2024) Influence of unipolar pulse packet quantity on centering the
   electroporation effect within a quadrupole electrode array (Version draft) [Data
@@ -54,7 +66,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-01-24T15:59:59.693440+00:00'
-datePublished: '2024-01-24T16:57:28.719788+00:00'
+datePublished: '2024-01-24T23:25:33.694536+00:00'
 description: This data provides images of Yo-Pro uptake when different numbers of
   nanosecond electric pulse packets were applied in a four-electrode array.
 doi: 10.80507/dandi.123456/0.123456.1234
@@ -70,13 +82,13 @@ name: Influence of unipolar pulse packet quantity on centering the electroporati
   effect within a quadrupole electrode array.
 protocol: []
 publishedBy:
-  endDate: '2024-01-24T16:57:28.719788+00:00'
-  id: urn:uuid:731bcbf6-8153-407a-b22e-adf1c309e79d
+  endDate: '2024-01-24T23:25:33.694536+00:00'
+  id: urn:uuid:545f1649-96cf-4278-9e0c-28f6cbde48b4
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-24T16:57:28.719788+00:00'
+  startDate: '2024-01-24T23:25:33.694536+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:7a9a4c7e-8467-40e0-87b1-3c49d33c6ad4
+  - id: urn:uuid:cae1a10d-3f1a-468d-94ea-8037e5253e8f
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
