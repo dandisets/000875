@@ -24,8 +24,8 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Pakhomov, Andrei; Gudvangen, Emily; Mangalanathan, Uma;
   Semenov, Iurii (2024) Influence of unipolar pulse packet quantity on centering the
-  electroporation effect within a quadrupole electrode array (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000875/draft
+  electroporation effect within a quadrupole electrode array (Version 0.240515.1925)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000875/0.240515.1925
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -73,14 +73,15 @@ description: This data provides images of Yo-Pro uptake when different numbers o
   electroporative effect across the electrode array. The peak of electroporation at
   the center was clearly distinguishable for all tested treatments. The study was
   supported in part by NIH R21EY034258
+doi: 10.48324/dandi.000875/0.240515.1925
 ethicsApproval: []
-id: DANDI:000875/draft
+id: DANDI:000875/0.240515.1925
 identifier: DANDI:000875
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000875/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000875/0.240515.1925/assets.yaml
 name: Influence of unipolar pulse packet quantity on centering the electroporation
   effect within a quadrupole electrode array.
 protocol: []
@@ -107,8 +108,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000875/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000875/0.240515.1925
+version: 0.240515.1925
 wasGeneratedBy:
 - endDate: '2024-08-01T00:00:00-04:00'
   identifier: NIH 1R21EY034258
