@@ -13,9 +13,9 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 2394148635
-  numberOfFiles: 6
-  numberOfSubjects: 12
+  numberOfBytes: 3607438018
+  numberOfFiles: 9
+  numberOfSubjects: 18
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
@@ -25,7 +25,7 @@ assetsSummary:
 citation: Silkuniene, Giedre; Pakhomov, Andrei; Gudvangen, Emily; Mangalanathan, Uma;
   Semenov, Iurii (2024) Influence of unipolar pulse packet quantity on centering the
   electroporation effect within a quadrupole electrode array (Version draft) [Data
-  set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  set]. DANDI archive. https://dandiarchive.org/dandiset/000875/draft
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -66,10 +66,13 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-01-24T15:59:59.693440+00:00'
-datePublished: '2024-01-24T23:25:33.694536+00:00'
+datePublished: '2024-05-15T19:25:04.476809+00:00'
 description: This data provides images of Yo-Pro uptake when different numbers of
-  nanosecond electric pulse packets were applied in a four-electrode array.
-doi: 10.80507/dandi.123456/0.123456.1234
+  nanosecond electric pulse packets were applied in a four-electrode array. Increasing
+  the total number of applied packets from 4 to 20 and 40 significantly enhanced the
+  electroporative effect across the electrode array. The peak of electroporation at
+  the center was clearly distinguishable for all tested treatments. The study was
+  supported in part by NIH R21EY034258
 ethicsApproval: []
 id: DANDI:000875/draft
 identifier: DANDI:000875
@@ -82,13 +85,13 @@ name: Influence of unipolar pulse packet quantity on centering the electroporati
   effect within a quadrupole electrode array.
 protocol: []
 publishedBy:
-  endDate: '2024-01-24T23:25:33.694536+00:00'
-  id: urn:uuid:545f1649-96cf-4278-9e0c-28f6cbde48b4
+  endDate: '2024-05-15T19:25:04.476809+00:00'
+  id: urn:uuid:48a361d6-06f3-433a-b7c1-82001f531dcc
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-24T23:25:33.694536+00:00'
+  startDate: '2024-05-15T19:25:04.476809+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:cae1a10d-3f1a-468d-94ea-8037e5253e8f
+  - id: urn:uuid:f095a73a-14ef-45a9-92c2-d9d34d70fec2
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
